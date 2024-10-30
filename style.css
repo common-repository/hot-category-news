@@ -1,0 +1,57 @@
+/*------------------------------------------------------------------------
+# "Hot Category News" WordPress plugin
+# Copyright (C) 2014 HotThemes. All Rights Reserved.
+# License: http://www.gnu.org/licenses/gpl-2.0.html GNU/GPLv2 only
+# Author: HotThemes
+# Website: https://hot-themes.com/
+-------------------------------------------------------------------------*/
+ 
+.post_separator {
+	margin: 1em 0;
+	clear: both;
+	border-top: 1px solid #eee;
+}
+
+h4.hot-category-news-title {
+	margin-bottom: 1em;
+}
+
+.hot-category-news > div {
+	margin: 30px 0;
+}
+
+.hot-category-news img.wp-post-image {
+	margin-bottom: 1em;
+}
+
+.hot-category-news-date {
+	font-size: .9em;
+	font-style: italic;
+}
+
+.hot-category-news .more-link {
+	border-bottom: 1px solid #333;
+}
+
+.hot-category-news .more-link:hover {
+	border-bottom: 0;
+}
+
+/* horizontal layout */
+
+.hot-category-news.horizontal {
+	display: flex;
+}
+
+.hot-category-news.horizontal > div {
+	width: 100%;
+    margin: 0 1%;
+}
+
+.hot-category-news.horizontal > div:first-child {
+	margin-left: 0;
+}
+
+.hot-category-news.horizontal > div:last-child {
+	margin-right: 0;
+}

@@ -1,0 +1,144 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-10-04 15:56+0200\n"
+"PO-Revision-Date: 2019-10-04 15:57+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: hot_category_news.php:51 hot_category_news.php:57
+msgid "Hot Category News"
+msgstr ""
+
+#: hot_category_news.php:198
+msgid "Read more"
+msgstr ""
+
+#: hot_category_news.php:262
+msgid "Title:"
+msgstr ""
+
+#: hot_category_news.php:266
+msgid "Category (ID or slug)"
+msgstr ""
+
+#: hot_category_news.php:269
+msgid "Order By"
+msgstr ""
+
+#: hot_category_news.php:272
+msgid "Create Date"
+msgstr ""
+
+#: hot_category_news.php:276
+msgid "Modified Date"
+msgstr ""
+
+#: hot_category_news.php:280
+msgid "Title"
+msgstr ""
+
+#: hot_category_news.php:284
+msgid "Comment count"
+msgstr ""
+
+#: hot_category_news.php:288
+msgid "Random"
+msgstr ""
+
+#: hot_category_news.php:292
+msgid "None"
+msgstr ""
+
+#: hot_category_news.php:300
+msgid "Order"
+msgstr ""
+
+#: hot_category_news.php:304
+msgid "Descending"
+msgstr ""
+
+#: hot_category_news.php:308
+msgid "Ascending"
+msgstr ""
+
+#: hot_category_news.php:316
+msgid "How many posts to take"
+msgstr ""
+
+#: hot_category_news.php:319
+msgid "Layout"
+msgstr ""
+
+#: hot_category_news.php:323
+msgid "Vertical"
+msgstr ""
+
+#: hot_category_news.php:327
+msgid "Horizontal"
+msgstr ""
+
+#: hot_category_news.php:335
+msgid "Show title"
+msgstr ""
+
+#: hot_category_news.php:339 hot_category_news.php:355
+#: hot_category_news.php:395 hot_category_news.php:414
+#: hot_category_news.php:430
+msgid "No"
+msgstr ""
+
+#: hot_category_news.php:343 hot_category_news.php:359
+#: hot_category_news.php:399 hot_category_news.php:418
+#: hot_category_news.php:434
+msgid "Yes"
+msgstr ""
+
+#: hot_category_news.php:351
+msgid "Show featured image"
+msgstr ""
+
+#: hot_category_news.php:367
+msgid "Featured image size"
+msgstr ""
+
+#: hot_category_news.php:371
+msgid "Thumbnail"
+msgstr ""
+
+#: hot_category_news.php:375
+msgid "Medium"
+msgstr ""
+
+#: hot_category_news.php:379
+msgid "Large"
+msgstr ""
+
+#: hot_category_news.php:383
+msgid "Full"
+msgstr ""
+
+#: hot_category_news.php:391
+msgid "Show date"
+msgstr ""
+
+#: hot_category_news.php:407
+msgid "Word limit"
+msgstr ""
+
+#: hot_category_news.php:410
+msgid "Show separators"
+msgstr ""
+
+#: hot_category_news.php:426
+msgid "Show last separator"
+msgstr ""
